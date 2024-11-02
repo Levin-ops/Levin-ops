@@ -23,9 +23,9 @@
 - Enhancing my knowledge in software engineering and expanding my expertise in game development.
 
 🌐 Let's Connect
-Twitter: @LevinMwanganyi
-Email: artmwanganyi09@outlook.com
-LinkedIn: Mwambi Levin
+- Twitter: @LevinMwanganyi
+- Email: artmwanganyi09@outlook.com
+- LinkedIn: Mwambi Levin
 
 
 <!---
