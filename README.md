@@ -1,23 +1,29 @@
-👋 Hello, I'm Levin Mwambi!
+👋 Hello there, I'm Levin Mwambi!
+
 🛠 About Me
-I'm a passionate developer with a strong interest in creating applications for both PCs and consoles. Currently immersed in software engineering, I love learning new technologies and turning ideas into innovative solutions.
+- I'm a passionate developer with a strong interest in creating applications for both PCs and consoles. Currently immersed in software engineering, I love learning new technologies and turning ideas into innovative solutions.
 
 👀 Interests
-Game development
-Building interactive web applications
-Exploring new tools and frameworks in software engineering
+- Game development
+- Building interactive web applications
+- Exploring new tools and frameworks in software engineering
+
 💻 Technical Skills
-Languages: JavaScript, HTML, CSS, Python
-Frameworks: React 18, Flask
+- Languages: JavaScript, HTML, CSS, Python
+- Frameworks: React 18, Flask
+- Databases: MongoDB, SQLite, Postgresql
+
 🏆 Certifications
-JavaScript Basics – HackerRank
+- JavaScript Basics – HackerRank
+
 🤝 Open to Collaboration
-I'm looking to team up on exciting game development projects and cutting-edge web applications. Let's build something amazing together!
+- I'm looking to team up on exciting game development projects and cutting-edge web applications. Let's build something amazing together!
 
 📚 Current Learning Journey
-Enhancing my knowledge in software engineering and expanding my expertise in game development.
+- Enhancing my knowledge in software engineering and expanding my expertise in game development.
+
 🌐 Let's Connect
-Twitter: @Arthurmwangany1
+Twitter: @LevinMwangany1
 Email: artmwanganyi09@outlook.com
 LinkedIn: Mwambi Levin
 
